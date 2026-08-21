@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-21T04:39:07.287Z",
+  "generatedAt": "2026-08-21T04:43:51.398Z",
   "today": "2026-08-21",
   "week": {
     "start": "2026-08-17",
@@ -160,7 +160,7 @@
       "script": "【抖音】课程教学-敢敢创业日记",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/JIOodFoOWoMnxSxVkiJcIbL6nvf",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-18",
@@ -2697,7 +2697,7 @@
       "script": "【抖音】课程教学-是iris呀",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Fbu1dLZclo9nCYxHYPecwPB0nyW",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-28",
@@ -2783,7 +2783,7 @@
       "script": "【抖音】课程教学-一颗地蛋（考公版）",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Nf4Vd0y0DoJ63nxsvgXcVBhRnKb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-09-01",
@@ -3060,5 +3060,12 @@
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A100"
     }
-  ]
+  ],
+  "sync": {
+    "status": "ok",
+    "lastAttemptAt": "2026-08-21T04:43:51.438Z",
+    "lastSuccessAt": "2026-08-21T04:43:51.398Z",
+    "errorSummary": "",
+    "consecutiveFailures": 0
+  }
 }
