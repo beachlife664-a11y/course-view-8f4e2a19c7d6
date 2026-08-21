@@ -3062,10 +3062,10 @@
     }
   ],
   "sync": {
-    "status": "ok",
-    "lastAttemptAt": "2026-08-21T04:43:51.438Z",
+    "status": "failed",
+    "lastAttemptAt": "2026-08-21T04:45:47.693Z",
     "lastSuccessAt": "2026-08-21T04:43:51.398Z",
-    "errorSummary": "",
-    "consecutiveFailures": 0
+    "errorSummary": "同步失败回退测试",
+    "consecutiveFailures": 1
   }
 }
