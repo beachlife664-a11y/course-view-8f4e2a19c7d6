@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-21T06:56:57.587Z",
+  "generatedAt": "2026-08-21T07:26:55.074Z",
   "today": "2026-08-21",
   "week": {
     "start": "2026-08-17",
@@ -147,7 +147,7 @@
     {
       "institution": "映画",
       "institutionKey": "yinghua",
-      "revision": 1246,
+      "revision": 1247,
       "sheetId": "a5Hh83",
       "sheetName": "专项执行表",
       "matched": 31,
@@ -169,7 +169,7 @@
     {
       "institution": "纽微特",
       "institutionKey": "niuweite",
-      "revision": 55624,
+      "revision": 55631,
       "sheetId": "xJQwam",
       "sheetName": "专项执行表",
       "matched": 12,
@@ -191,7 +191,7 @@
     {
       "institution": "睿立",
       "institutionKey": "ruili",
-      "revision": 18065,
+      "revision": 18067,
       "sheetId": "T2kEop",
       "sheetName": "专项执行表",
       "matched": 7,
@@ -202,7 +202,7 @@
     {
       "institution": "闪光点",
       "institutionKey": "shanguangdian",
-      "revision": 33035,
+      "revision": 33036,
       "sheetId": "KB0jWT",
       "sheetName": "专项执行表",
       "matched": 3,
@@ -235,7 +235,7 @@
     {
       "institution": "杭杭",
       "institutionKey": "hanghang",
-      "revision": 2188,
+      "revision": 2192,
       "sheetId": "GIaaSm",
       "sheetName": "专项执行表",
       "matched": 6,
@@ -5440,8 +5440,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-21T06:56:57.705Z",
-    "lastSuccessAt": "2026-08-21T06:56:57.587Z",
+    "lastAttemptAt": "2026-08-21T07:26:55.129Z",
+    "lastSuccessAt": "2026-08-21T07:26:55.074Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
