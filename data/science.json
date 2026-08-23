@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-23T13:27:39.949Z",
+  "generatedAt": "2026-08-23T14:57:43.734Z",
   "today": "2026-08-23",
   "week": {
     "start": "2026-08-17",
@@ -169,7 +169,7 @@
     {
       "institution": "纽微特",
       "institutionKey": "niuweite",
-      "revision": 55893,
+      "revision": 55895,
       "sheetId": "xJQwam",
       "sheetName": "专项执行表",
       "matched": 16,
@@ -191,7 +191,7 @@
     {
       "institution": "睿立",
       "institutionKey": "ruili",
-      "revision": 18097,
+      "revision": 18107,
       "sheetId": "T2kEop",
       "sheetName": "专项执行表",
       "matched": 7,
@@ -949,7 +949,7 @@
       "script": "【抖音】科普专项-阿康AI自媒体",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/PGmcdTWFAouNouxjRAVcM817neh",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-21",
@@ -7273,8 +7273,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-23T13:27:40.007Z",
-    "lastSuccessAt": "2026-08-23T13:27:39.949Z",
+    "lastAttemptAt": "2026-08-23T14:57:43.783Z",
+    "lastSuccessAt": "2026-08-23T14:57:43.734Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
