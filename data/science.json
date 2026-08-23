@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-23T17:46:14.233Z",
+  "generatedAt": "2026-08-23T17:47:25.934Z",
   "today": "2026-08-24",
   "week": {
     "start": "2026-08-24",
@@ -6730,7 +6730,7 @@
       "script": "【抖音】课程教学-Young北北",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/UQzUdiLuQoWHNLxIRBacuPxbnlc",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-28",
@@ -7273,8 +7273,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-23T17:46:14.271Z",
-    "lastSuccessAt": "2026-08-23T17:46:14.233Z",
+    "lastAttemptAt": "2026-08-23T17:47:25.984Z",
+    "lastSuccessAt": "2026-08-23T17:47:25.934Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
