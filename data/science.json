@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-23T08:45:52.883Z",
+  "generatedAt": "2026-08-23T09:15:48.529Z",
   "today": "2026-08-23",
   "week": {
     "start": "2026-08-17",
@@ -808,7 +808,7 @@
       "script": "【抖音】课程教学-解忧代码（程序员）",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/EWu3dYN68oxfvYxgTtncKhuwnAb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -4709,7 +4709,7 @@
       "script": "【抖音】课程教学-一龙Elon",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/ER7idnc8Ho00x1xwM9dcOYrvnlg",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-26",
@@ -6683,7 +6683,7 @@
       "script": "【抖音】课程教学-煜林AI工坊",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/NdcodBLXpogOAtxmsdjcFq8JnQh",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-31",
@@ -7273,8 +7273,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-23T08:45:52.939Z",
-    "lastSuccessAt": "2026-08-23T08:45:52.883Z",
+    "lastAttemptAt": "2026-08-23T09:15:48.591Z",
+    "lastSuccessAt": "2026-08-23T09:15:48.529Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
