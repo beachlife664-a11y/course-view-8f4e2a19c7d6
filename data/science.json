@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-23T16:10:29.284Z",
+  "generatedAt": "2026-08-23T16:44:10.005Z",
   "today": "2026-08-24",
   "week": {
     "start": "2026-08-24",
@@ -7273,8 +7273,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-23T16:10:29.335Z",
-    "lastSuccessAt": "2026-08-23T16:10:29.284Z",
+    "lastAttemptAt": "2026-08-23T16:44:10.048Z",
+    "lastSuccessAt": "2026-08-23T16:44:10.005Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
