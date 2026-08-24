@@ -1,6 +1,6 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-24T04:20:41.597Z",
+  "generatedAt": "2026-08-24T04:50:39.744Z",
   "today": "2026-08-24",
   "week": {
     "start": "2026-08-24",
@@ -169,7 +169,7 @@
     {
       "institution": "纽微特",
       "institutionKey": "niuweite",
-      "revision": 56029,
+      "revision": 56059,
       "sheetId": "xJQwam",
       "sheetName": "专项执行表",
       "matched": 16,
@@ -213,7 +213,7 @@
     {
       "institution": "筑石",
       "institutionKey": "zhushi",
-      "revision": 13163,
+      "revision": 13204,
       "sheetId": "UYL6Gv",
       "sheetName": "专项执行表",
       "matched": 9,
@@ -235,7 +235,7 @@
     {
       "institution": "杭杭",
       "institutionKey": "hanghang",
-      "revision": 2372,
+      "revision": 2444,
       "sheetId": "GIaaSm",
       "sheetName": "专项执行表",
       "matched": 17,
@@ -808,7 +808,7 @@
       "script": "【抖音】课程教学-解忧代码（程序员）",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/EWu3dYN68oxfvYxgTtncKhuwnAb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -5320,7 +5320,7 @@
       "script": "【抖音】课程教学-小琦哥@",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/UfSedOWAqos7ZuxJrTgcaBk4njd",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -6777,7 +6777,7 @@
       "script": "【抖音】课程教学-是iris呀 第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Fbu1dLZclo9nCYxHYPecwPB0nyW",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-28",
@@ -6824,7 +6824,7 @@
       "script": "【抖音】课程教学-一颗地蛋（考公版）",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Nf4Vd0y0DoJ63nxsvgXcVBhRnKb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-09-01",
@@ -6918,7 +6918,7 @@
       "script": "【抖音】课程教学-Young北北",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/UQzUdiLuQoWHNLxIRBacuPxbnlc",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-28",
@@ -7320,8 +7320,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-24T04:20:41.657Z",
-    "lastSuccessAt": "2026-08-24T04:20:41.597Z",
+    "lastAttemptAt": "2026-08-24T04:50:39.797Z",
+    "lastSuccessAt": "2026-08-24T04:50:39.744Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
