@@ -1,7 +1,7 @@
 {
   "name": "课程教学进度跟进工作台",
-  "generatedAt": "2026-08-27T15:30:41.540Z",
-  "today": "2026-08-27",
+  "generatedAt": "2026-08-27T16:01:31.087Z",
+  "today": "2026-08-28",
   "week": {
     "start": "2026-08-24",
     "end": "2026-08-30"
@@ -17,8 +17,8 @@
     "missingProgress": 5,
     "progressing": 97,
     "published": 9,
-    "scriptLinked": 88,
-    "thisWeekScriptLinked": 52
+    "scriptLinked": 90,
+    "thisWeekScriptLinked": 54
   },
   "institutions": [
     {
@@ -151,7 +151,7 @@
       "sheetId": "a5Hh83",
       "sheetName": "专项执行表",
       "matched": 49,
-      "scriptLinked": 20,
+      "scriptLinked": 22,
       "weeklySourceUrl": "",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83"
     },
@@ -202,7 +202,7 @@
     {
       "institution": "闪光点",
       "institutionKey": "shanguangdian",
-      "revision": 33745,
+      "revision": 33801,
       "sheetId": "KB0jWT",
       "sheetName": "专项执行表",
       "matched": 5,
@@ -291,7 +291,7 @@
       "script": "【抖音】课程教学-敢敢创业日记",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/JIOodFoOWoMnxSxVkiJcIbL6nvf",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-18",
@@ -306,7 +306,7 @@
         "finalVideo": "8.17"
       },
       "isThisWeek": false,
-      "dateDistance": -22,
+      "dateDistance": -23,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A309",
       "creatorGroupId": "niuweite:敢敢创业日记",
@@ -353,7 +353,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -6,
+      "dateDistance": -7,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A214",
       "creatorGroupId": "mengshou:妮懂ai科技",
@@ -400,7 +400,7 @@
         "finalVideo": "8.28"
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A354",
       "creatorGroupId": "niuweite:响响ai研究所",
@@ -447,7 +447,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A43",
       "creatorGroupId": "ruili:地锅鸡",
@@ -494,7 +494,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A44",
       "creatorGroupId": "ruili:鑫总电商联盟",
@@ -541,7 +541,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A42",
       "creatorGroupId": "ruili:一天",
@@ -588,7 +588,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A43",
       "creatorGroupId": "yinghua:ai科技视野",
@@ -635,7 +635,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -5,
+      "dateDistance": -6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A44",
       "creatorGroupId": "yinghua:ai科技视野",
@@ -682,7 +682,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "done",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A220",
       "creatorGroupId": "mengshou:程序员豆腐",
@@ -714,7 +714,7 @@
       "script": "【抖音】AI科普-程序员老张（AI教学",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/BdF5dKlgRodxeCxI0hrcw3g5nMb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -729,7 +729,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A216",
       "creatorGroupId": "mengshou:程序员老张",
@@ -761,7 +761,7 @@
       "script": "【抖音】科普专项-敢敢创业日记",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/QcB1dprLYotkWIxIlAUcSoNCnhh",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -776,7 +776,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A217",
       "creatorGroupId": "mengshou:敢敢创业日记",
@@ -823,7 +823,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A240",
       "creatorGroupId": "mengshou:解忧代码",
@@ -870,7 +870,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "done",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A218",
       "creatorGroupId": "mengshou:脑三聊ai",
@@ -917,7 +917,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "done",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A219",
       "creatorGroupId": "mengshou:徐皓ai分享",
@@ -964,7 +964,7 @@
         "finalVideo": "8.21"
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A352",
       "creatorGroupId": "niuweite:阿康ai自媒体",
@@ -996,7 +996,7 @@
       "script": "【抖音】科普专项-Boya松绑了",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Ox1edhyzVo0TGrxWxU0cpu0hnde",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-23",
@@ -1011,7 +1011,7 @@
         "finalVideo": "8.23"
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A353",
       "creatorGroupId": "niuweite:boya松绑了",
@@ -1043,7 +1043,7 @@
       "script": "【抖音】-课程教学- 大刘职言-第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/DHtjdg2cToqXz2xF2TxcZVtLnC3",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-23",
@@ -1058,7 +1058,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": -4,
+      "dateDistance": -5,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A98",
       "creatorGroupId": "zhushi:大刘职言",
@@ -1090,7 +1090,7 @@
       "script": "【抖音】课程教学-蓝点Ai第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/Lg0hd6ve0oSqoLxAEd6cWKoqnVh",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -1105,7 +1105,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A371",
       "creatorGroupId": "niuweite:蓝点ai",
@@ -1152,7 +1152,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A370",
       "creatorGroupId": "niuweite:梨梨ai指南",
@@ -1184,7 +1184,7 @@
       "script": "【抖音】课程教学-木兰AI控  第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/ZODOd4gzmoTe6nxrkZHcwKxOnlb",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -1199,7 +1199,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A372",
       "creatorGroupId": "niuweite:木兰ai控",
@@ -1246,7 +1246,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A369",
       "creatorGroupId": "niuweite:小熊ai说",
@@ -1293,7 +1293,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/AOmpwPEVPi27WYkRk9Hc7XaYnQf?sheet=a5Hh83&range=A2",
       "creatorGroupId": "nuoxin:ai小杜",
@@ -1340,7 +1340,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A46",
       "creatorGroupId": "ruili:欧耶学ai",
@@ -1387,7 +1387,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A110",
       "creatorGroupId": "ruili:西里森森",
@@ -1434,7 +1434,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A111",
       "creatorGroupId": "ruili:小金ethan",
@@ -1481,7 +1481,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A45",
       "creatorGroupId": "ruili:ai空间",
@@ -1528,7 +1528,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A52",
       "creatorGroupId": "yinghua:三上ai实验室",
@@ -1560,7 +1560,7 @@
       "script": "【抖音】课程教学-AI小杜",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/PegGdHMX1oqIhhxw5nZckSqznBg",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-26",
@@ -1575,7 +1575,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A34",
       "creatorGroupId": "yinghua:ai小杜",
@@ -1607,7 +1607,7 @@
       "script": "【抖音】课程教学-Cyber蚊子",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/NNkudzQWOopbQWxSVB3cRdAEnwc",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-29",
@@ -1622,7 +1622,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -3,
+      "dateDistance": -4,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A49",
       "creatorGroupId": "yinghua:cyber蚊子",
@@ -1669,7 +1669,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A236",
       "creatorGroupId": "mengshou:必公子",
@@ -1701,7 +1701,7 @@
       "script": "【抖音】课程教学-大世界小孟想",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/ArdbdqmC2o2baaxnVbBc0buNnZR",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -1716,7 +1716,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A233",
       "creatorGroupId": "mengshou:大世界小孟想",
@@ -1763,7 +1763,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A234",
       "creatorGroupId": "mengshou:大世界小孟想2",
@@ -1810,7 +1810,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A228",
       "creatorGroupId": "mengshou:大许不ng",
@@ -1857,7 +1857,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A226",
       "creatorGroupId": "mengshou:姜拾三",
@@ -1904,7 +1904,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A235",
       "creatorGroupId": "mengshou:沈知禾",
@@ -1936,7 +1936,7 @@
       "script": "【抖音】课程教学-是杨不是羊",
       "scriptUrl": "https://tcnlcgbdxfan.feishu.cn/docx/A7QXdrcRVo2BYtxxlvrc6Rmlnpe",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -1951,7 +1951,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A227",
       "creatorGroupId": "mengshou:是杨不是羊‍",
@@ -1998,7 +1998,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "missing",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A241",
       "creatorGroupId": "mengshou:小邓邓💕📷🦟",
@@ -2045,7 +2045,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A230",
       "creatorGroupId": "mengshou:小婕妹妹lab",
@@ -2092,7 +2092,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A229",
       "creatorGroupId": "mengshou:星野阿k",
@@ -2139,7 +2139,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A231",
       "creatorGroupId": "mengshou:ai蒙娜丽夏",
@@ -2186,7 +2186,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A237",
       "creatorGroupId": "mengshou:code连连",
@@ -2233,7 +2233,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A232",
       "creatorGroupId": "mengshou:max科技实验室",
@@ -2280,7 +2280,7 @@
         "finalVideo": "8月24"
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A4",
       "creatorGroupId": "siye:幺怪读博日记",
@@ -2312,7 +2312,7 @@
       "script": "【抖音】课程教学-陈冉的AI指南-第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/WV2rdGYnHo3g5Oxfk5UciJMfn2c",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-28",
@@ -2327,7 +2327,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A47",
       "creatorGroupId": "yinghua:陈冉的ai指南",
@@ -2374,7 +2374,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A48",
       "creatorGroupId": "yinghua:陈冉的ai指南",
@@ -2421,7 +2421,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A37",
       "creatorGroupId": "yinghua:此刻ai",
@@ -2468,7 +2468,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A38",
       "creatorGroupId": "yinghua:此刻ai",
@@ -2515,7 +2515,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A41",
       "creatorGroupId": "yinghua:小饭屏幕🏄",
@@ -2562,7 +2562,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A42",
       "creatorGroupId": "yinghua:小饭屏幕🏄",
@@ -2609,7 +2609,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A35",
       "creatorGroupId": "yinghua:旭哥ai笔记",
@@ -2656,7 +2656,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A36",
       "creatorGroupId": "yinghua:旭哥ai笔记",
@@ -2686,9 +2686,9 @@
       "stageCode": "script",
       "stageLabel": "脚本-创作",
       "script": "【抖音】课程教学-悠米AI百科",
-      "scriptUrl": "",
-      "scriptLinkStatus": "unresolved",
-      "scriptLinkSource": "",
+      "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/JhJ0d6KPfo9gnfxVsAqcojo5nTf",
+      "scriptLinkStatus": "linked",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-30",
@@ -2703,7 +2703,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A51",
       "creatorGroupId": "yinghua:悠米ai百科",
@@ -2750,7 +2750,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A39",
       "creatorGroupId": "yinghua:ai马洛伊",
@@ -2797,7 +2797,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -2,
+      "dateDistance": -3,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A40",
       "creatorGroupId": "yinghua:ai马洛伊",
@@ -2844,7 +2844,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A212",
       "creatorGroupId": "mengshou:三水科技说",
@@ -2891,7 +2891,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "missing",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/TOHBwjWTKi6S6MkZvzUcIx0Lnnf?sheet=KB0jWT&range=A142",
       "creatorGroupId": "shanguangdian:硅基公民",
@@ -2938,7 +2938,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "missing",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/TOHBwjWTKi6S6MkZvzUcIx0Lnnf?sheet=KB0jWT&range=A143",
       "creatorGroupId": "shanguangdian:海洋ai笔记",
@@ -2985,7 +2985,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/TOHBwjWTKi6S6MkZvzUcIx0Lnnf?sheet=KB0jWT&range=A136",
       "creatorGroupId": "shanguangdian:耶梦加德",
@@ -3032,7 +3032,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A14",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3079,7 +3079,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A15",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3126,7 +3126,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A16",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3173,7 +3173,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A17",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3220,7 +3220,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A18",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3267,7 +3267,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A19",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3314,7 +3314,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A20",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3361,7 +3361,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A21",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3408,7 +3408,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A22",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3455,7 +3455,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A23",
       "creatorGroupId": "yinghua:阿然vision",
@@ -3502,7 +3502,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A24",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3549,7 +3549,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A25",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3596,7 +3596,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A26",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3643,7 +3643,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A27",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3690,7 +3690,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A28",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3737,7 +3737,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A29",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3784,7 +3784,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A30",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3831,7 +3831,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A31",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3878,7 +3878,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A32",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3925,7 +3925,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A33",
       "creatorGroupId": "yinghua:米芮2077",
@@ -3955,9 +3955,9 @@
       "stageCode": "outline_review",
       "stageLabel": "大纲-审核",
       "script": "【抖音】课程教学-遇见AI",
-      "scriptUrl": "",
-      "scriptLinkStatus": "unresolved",
-      "scriptLinkSource": "",
+      "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/VsMFdNt5oo0rrPxDOYscOv5dnec",
+      "scriptLinkStatus": "linked",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-29",
@@ -3972,7 +3972,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A50",
       "creatorGroupId": "yinghua:遇见ai",
@@ -4019,7 +4019,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A4",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4066,7 +4066,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A5",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4113,7 +4113,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A6",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4160,7 +4160,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A7",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4207,7 +4207,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A8",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4254,7 +4254,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A9",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4301,7 +4301,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A10",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4348,7 +4348,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A11",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4395,7 +4395,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A12",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4442,7 +4442,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A13",
       "creatorGroupId": "yinghua:ai伊次元",
@@ -4489,7 +4489,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": -1,
+      "dateDistance": -2,
       "attention": "done",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A103",
       "creatorGroupId": "zhushi:要要要ai",
@@ -4536,7 +4536,7 @@
         "finalVideo": "8.28日"
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A23",
       "creatorGroupId": "hanghang:陈陈是只ai喵",
@@ -4583,7 +4583,7 @@
         "finalVideo": "8月26日"
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A19",
       "creatorGroupId": "hanghang:大春future",
@@ -4630,7 +4630,7 @@
         "finalVideo": "8月28日"
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A18",
       "creatorGroupId": "hanghang:极客船长",
@@ -4677,7 +4677,7 @@
         "finalVideo": "8.26日"
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A22",
       "creatorGroupId": "hanghang:讲ai的老韩",
@@ -4724,7 +4724,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A21",
       "creatorGroupId": "hanghang:梯度下沉君",
@@ -4771,7 +4771,7 @@
         "finalVideo": "8月28日"
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A20",
       "creatorGroupId": "hanghang:蟹蟹apex",
@@ -4818,7 +4818,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A225",
       "creatorGroupId": "mengshou:钛度宇宙ai",
@@ -4865,7 +4865,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 0,
+      "dateDistance": -1,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A239",
       "creatorGroupId": "mengshou:ai老撕机",
@@ -4912,7 +4912,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "missing",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A247",
       "creatorGroupId": "mengshou:ai小魔女",
@@ -4944,7 +4944,7 @@
       "script": "【抖音】科普专项-大杯鲜奶去冰三分糖",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/TF3rdWkhEof3c0xtifocsx29nsh",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "2026-08-21",
@@ -4959,7 +4959,7 @@
         "finalVideo": "8.21"
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A351",
       "creatorGroupId": "niuweite:大杯鲜奶去冰三分糖",
@@ -5006,7 +5006,7 @@
         "finalVideo": "8.25"
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A363",
       "creatorGroupId": "niuweite:一龙elon",
@@ -5053,7 +5053,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/AOmpwPEVPi27WYkRk9Hc7XaYnQf?sheet=a5Hh83&range=A6",
       "creatorGroupId": "nuoxin:程序员大ning",
@@ -5100,7 +5100,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/AOmpwPEVPi27WYkRk9Hc7XaYnQf?sheet=a5Hh83&range=A3",
       "creatorGroupId": "nuoxin:程序员小鄢",
@@ -5147,7 +5147,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 1,
+      "dateDistance": 0,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A104",
       "creatorGroupId": "zhushi:要要要ai",
@@ -5194,7 +5194,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 2,
+      "dateDistance": 1,
       "attention": "missing",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A223",
       "creatorGroupId": "mengshou:观察猿小朱",
@@ -5241,7 +5241,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 2,
+      "dateDistance": 1,
       "attention": "tight",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A242",
       "creatorGroupId": "mengshou:小琦哥@",
@@ -5288,7 +5288,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 2,
+      "dateDistance": 1,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A224",
       "creatorGroupId": "mengshou:小l聊ai",
@@ -5335,7 +5335,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 2,
+      "dateDistance": 1,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A238",
       "creatorGroupId": "mengshou:ai怡刻",
@@ -5382,7 +5382,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 2,
+      "dateDistance": 1,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/AOmpwPEVPi27WYkRk9Hc7XaYnQf?sheet=a5Hh83&range=A5",
       "creatorGroupId": "nuoxin:是杨不是羊",
@@ -5429,7 +5429,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A213",
       "creatorGroupId": "mengshou:小e同学",
@@ -5476,7 +5476,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A243",
       "creatorGroupId": "mengshou:ai鹿鹿",
@@ -5523,7 +5523,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "active",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A244",
       "creatorGroupId": "mengshou:real-ai科技馨",
@@ -5570,7 +5570,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/AOmpwPEVPi27WYkRk9Hc7XaYnQf?sheet=a5Hh83&range=A4",
       "creatorGroupId": "nuoxin:在下二硕",
@@ -5617,7 +5617,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/TOHBwjWTKi6S6MkZvzUcIx0Lnnf?sheet=KB0jWT&range=A145",
       "creatorGroupId": "shanguangdian:皓说ai",
@@ -5664,7 +5664,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "active",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A8",
       "creatorGroupId": "siye:非哥黑科技",
@@ -5711,7 +5711,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A84",
       "creatorGroupId": "zhisen:艾斯ai💫",
@@ -5758,7 +5758,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A85",
       "creatorGroupId": "zhisen:大厂智能信息",
@@ -5805,7 +5805,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A87",
       "creatorGroupId": "zhisen:闵浩不卡bug",
@@ -5852,7 +5852,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A86",
       "creatorGroupId": "zhisen:万万想到了era",
@@ -5899,7 +5899,7 @@
         "finalVideo": ""
       },
       "isThisWeek": true,
-      "dateDistance": 3,
+      "dateDistance": 2,
       "attention": "tight",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A83",
       "creatorGroupId": "zhisen:ai打工我摸鱼",
@@ -5946,7 +5946,7 @@
         "finalVideo": "8.26日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A33",
       "creatorGroupId": "hanghang:￼无情狗明",
@@ -5993,7 +5993,7 @@
         "finalVideo": "8.31日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A38",
       "creatorGroupId": "hanghang:比特ai科技站",
@@ -6040,7 +6040,7 @@
         "finalVideo": "8.30日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A37",
       "creatorGroupId": "hanghang:花小小聊ai",
@@ -6087,7 +6087,7 @@
         "finalVideo": "9月7日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A39",
       "creatorGroupId": "hanghang:森林知更鸟",
@@ -6134,7 +6134,7 @@
         "finalVideo": "8.27日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A32",
       "creatorGroupId": "hanghang:锁毅博",
@@ -6181,7 +6181,7 @@
         "finalVideo": "8.29日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A28",
       "creatorGroupId": "hanghang:万万想到了era",
@@ -6228,7 +6228,7 @@
         "finalVideo": "8.29日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A36",
       "creatorGroupId": "hanghang:小朱朱的ai剪辑笔记",
@@ -6275,7 +6275,7 @@
         "finalVideo": "8.31日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A30",
       "creatorGroupId": "hanghang:盐盐ai酱",
@@ -6322,7 +6322,7 @@
         "finalVideo": "8.29日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A29",
       "creatorGroupId": "hanghang:一网一宝",
@@ -6369,7 +6369,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A27",
       "creatorGroupId": "hanghang:鱼仔不摸鱼",
@@ -6416,7 +6416,7 @@
         "finalVideo": "8.30日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A35",
       "creatorGroupId": "hanghang:追风筝的凌凌七",
@@ -6463,7 +6463,7 @@
         "finalVideo": "8.31日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A31",
       "creatorGroupId": "hanghang:ai学长小彬",
@@ -6510,7 +6510,7 @@
         "finalVideo": "8.29日"
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A34",
       "creatorGroupId": "hanghang:ren婧然",
@@ -6557,7 +6557,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A378",
       "creatorGroupId": "niuweite:大一口",
@@ -6589,7 +6589,7 @@
       "script": "【抖音】课程教学-冯飞飞Ai  第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/S8KVdAj9roeQYWxIcZmcFIqEnlg",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -6604,7 +6604,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A373",
       "creatorGroupId": "niuweite:冯飞飞ai",
@@ -6651,7 +6651,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A375",
       "creatorGroupId": "niuweite:好大一阵风",
@@ -6683,7 +6683,7 @@
       "script": "【抖音】课程教学-七七的AI片场第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/CUK3dQq6ooJ3gcxDGH7cgKUYnYd",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "上次已确认快照",
+      "scriptLinkSource": "机构专项执行表",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -6698,7 +6698,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A374",
       "creatorGroupId": "niuweite:七七的ai片场",
@@ -6745,7 +6745,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A379",
       "creatorGroupId": "niuweite:赛赛ai捕手",
@@ -6792,7 +6792,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A376",
       "creatorGroupId": "niuweite:小囧君",
@@ -6839,7 +6839,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A117",
       "creatorGroupId": "ruili:姬可儿",
@@ -6886,7 +6886,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A116",
       "creatorGroupId": "ruili:俊仔的cyber",
@@ -6933,7 +6933,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A115",
       "creatorGroupId": "ruili:旭仔的cyber",
@@ -6980,7 +6980,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A45",
       "creatorGroupId": "yinghua:淼淼的ai日常",
@@ -7027,7 +7027,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 4,
+      "dateDistance": 3,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RaNlwPjiRiGNkFkXazZcTDMNn7f?sheet=a5Hh83&range=A46",
       "creatorGroupId": "yinghua:淼淼的ai日常",
@@ -7074,7 +7074,7 @@
         "finalVideo": "9月3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A42",
       "creatorGroupId": "hanghang:阿侃的假期",
@@ -7121,7 +7121,7 @@
         "finalVideo": "9月3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A46",
       "creatorGroupId": "hanghang:大宇agi",
@@ -7168,7 +7168,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A48",
       "creatorGroupId": "hanghang:科技干货捕手",
@@ -7215,7 +7215,7 @@
         "finalVideo": "9.3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A52",
       "creatorGroupId": "hanghang:零零ai咖",
@@ -7262,7 +7262,7 @@
         "finalVideo": "9月3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A55",
       "creatorGroupId": "hanghang:陆地行舟ai实验室",
@@ -7309,7 +7309,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A54",
       "creatorGroupId": "hanghang:认知引擎",
@@ -7356,7 +7356,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A47",
       "creatorGroupId": "hanghang:数智潮流主理人",
@@ -7403,7 +7403,7 @@
         "finalVideo": "9月2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A43",
       "creatorGroupId": "hanghang:思韵来了",
@@ -7450,7 +7450,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A50",
       "creatorGroupId": "hanghang:王小二数据分析",
@@ -7497,7 +7497,7 @@
         "finalVideo": "9.3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A51",
       "creatorGroupId": "hanghang:醒醒ai科技",
@@ -7544,7 +7544,7 @@
         "finalVideo": "9月3日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A41",
       "creatorGroupId": "hanghang:野子哥",
@@ -7591,7 +7591,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A56",
       "creatorGroupId": "hanghang:ai课代表小露",
@@ -7638,7 +7638,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A53",
       "creatorGroupId": "hanghang:ai少女七七",
@@ -7685,7 +7685,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A40",
       "creatorGroupId": "hanghang:bob同学",
@@ -7732,7 +7732,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A45",
       "creatorGroupId": "hanghang:code研究站",
@@ -7779,7 +7779,7 @@
         "finalVideo": "9月1日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A44",
       "creatorGroupId": "hanghang:lab小新",
@@ -7826,7 +7826,7 @@
         "finalVideo": "9.2日"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/NcfvwYiKqia2ouktt2XcLDI8ndd?sheet=GIaaSm&range=A49",
       "creatorGroupId": "hanghang:smart三三",
@@ -7873,7 +7873,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A246",
       "creatorGroupId": "mengshou:yo亿点",
@@ -7920,7 +7920,7 @@
         "finalVideo": "8.26"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A355",
       "creatorGroupId": "niuweite:科技姐聊ai",
@@ -7967,7 +7967,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A366",
       "creatorGroupId": "niuweite:设计师doo",
@@ -8014,7 +8014,7 @@
         "finalVideo": "8.27"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A367",
       "creatorGroupId": "niuweite:是iris呀",
@@ -8061,7 +8061,7 @@
         "finalVideo": "8.28"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A368",
       "creatorGroupId": "niuweite:一颗地蛋",
@@ -8108,7 +8108,7 @@
         "finalVideo": "8.29"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A364",
       "creatorGroupId": "niuweite:煜林ai工坊",
@@ -8155,7 +8155,7 @@
         "finalVideo": "8.26"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/EDXawjh1qi3XhNkjfcbcptQtnAc?sheet=xJQwam&range=A365",
       "creatorGroupId": "niuweite:young北北",
@@ -8202,7 +8202,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/ZX2MwseGUiRIjnkIGXlcVSHVnjh?sheet=T2kEop&range=A114",
       "creatorGroupId": "ruili:名嘴小周",
@@ -8249,7 +8249,7 @@
         "finalVideo": "8月30"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A12",
       "creatorGroupId": "siye:哆哆趣说ai",
@@ -8296,7 +8296,7 @@
         "finalVideo": "9月3"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A18",
       "creatorGroupId": "siye:极物君的ai营地",
@@ -8343,7 +8343,7 @@
         "finalVideo": "9月1"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A14",
       "creatorGroupId": "siye:栗子说ai",
@@ -8390,7 +8390,7 @@
         "finalVideo": "9月1"
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A16",
       "creatorGroupId": "siye:kiki玩转ai",
@@ -8437,7 +8437,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/Pk0Wwtws4iNoSCkDG4cc5dqAnyd?sheet=UYL6Gv&range=A82",
       "creatorGroupId": "zhisen:网瘾阿浪",
@@ -8484,7 +8484,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A113",
       "creatorGroupId": "zhushi:程序员年糕",
@@ -8531,7 +8531,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A106",
       "creatorGroupId": "zhushi:大米力",
@@ -8563,7 +8563,7 @@
       "script": "【抖音】-课程教学-鳄菲特-第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/INEudMoZroZ9VFxka63cdM0xnOz",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -8578,7 +8578,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A102",
       "creatorGroupId": "zhushi:鳄菲特",
@@ -8625,7 +8625,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A118",
       "creatorGroupId": "zhushi:烦烦老陈",
@@ -8657,7 +8657,7 @@
       "script": "【抖音】-课程教学-氪研所-第一期",
       "scriptUrl": "https://zqyd2vqyqmy.feishu.cn/docx/WBm8dkkbrojUnexAS0Ocgg9Nnzg",
       "scriptLinkStatus": "linked",
-      "scriptLinkSource": "机构专项执行表",
+      "scriptLinkSource": "上次已确认快照",
       "owner": "",
       "executor": "",
       "publishedAt": "",
@@ -8672,7 +8672,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A101",
       "creatorGroupId": "zhushi:氪研所",
@@ -8719,7 +8719,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A119",
       "creatorGroupId": "zhushi:十七。",
@@ -8766,7 +8766,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A114",
       "creatorGroupId": "zhushi:西西ai日记",
@@ -8813,7 +8813,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 5,
+      "dateDistance": 4,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/RfRRwad2FiFvMpkXcvKcZcHgnPg?sheet=UYL6Gv&range=A105",
       "creatorGroupId": "zhushi:要要要ai",
@@ -8860,7 +8860,7 @@
         "finalVideo": "8月29"
       },
       "isThisWeek": false,
-      "dateDistance": 6,
+      "dateDistance": 5,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A10",
       "creatorGroupId": "siye:ai夏老师",
@@ -8907,7 +8907,7 @@
         "finalVideo": "8月29"
       },
       "isThisWeek": false,
-      "dateDistance": 6,
+      "dateDistance": 5,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A9",
       "creatorGroupId": "siye:ai信息差",
@@ -8954,7 +8954,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://tcnlcgbdxfan.feishu.cn/wiki/JoI8wJUEpi4AURkqWYycxGrSnIf?sheet=yRAUhq&range=A245",
       "creatorGroupId": "mengshou:kuku",
@@ -9001,7 +9001,7 @@
         "finalVideo": "8月30"
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A22",
       "creatorGroupId": "siye:崔姐带你探科技",
@@ -9048,7 +9048,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A21",
       "creatorGroupId": "siye:俩千创业日记",
@@ -9095,7 +9095,7 @@
         "finalVideo": "8月30"
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A23",
       "creatorGroupId": "siye:小林科技世界",
@@ -9142,7 +9142,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A19",
       "creatorGroupId": "siye:小k探未来",
@@ -9189,7 +9189,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 7,
+      "dateDistance": 6,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/VO9jwdLxQi5ZLXkEAfNclNBZnyd?sheet=GIaaSm&range=A20",
       "creatorGroupId": "siye:jiarui的读博笔记",
@@ -9236,7 +9236,7 @@
         "finalVideo": ""
       },
       "isThisWeek": false,
-      "dateDistance": 11,
+      "dateDistance": 10,
       "attention": "later",
       "sourceUrl": "https://zqyd2vqyqmy.feishu.cn/wiki/TOHBwjWTKi6S6MkZvzUcIx0Lnnf?sheet=KB0jWT&range=A144",
       "creatorGroupId": "shanguangdian:木言设计",
@@ -9435,8 +9435,8 @@
   ],
   "sync": {
     "status": "ok",
-    "lastAttemptAt": "2026-08-27T15:30:41.584Z",
-    "lastSuccessAt": "2026-08-27T15:30:41.540Z",
+    "lastAttemptAt": "2026-08-27T16:01:31.131Z",
+    "lastSuccessAt": "2026-08-27T16:01:31.087Z",
     "errorSummary": "",
     "consecutiveFailures": 0
   }
